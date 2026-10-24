@@ -1,0 +1,11 @@
+Package: funcion2
+Title: FUNCION PARA PREDECIR
+Version: 0.1.0
+Authors@R: 
+    person("Ricardo", "Castañeda", , "amesamu2015@gmail.com", role = c("aut", "cre"))
+Description: Predecir con redes neuronales.
+License: MIT + file LICENSE
+Config/roxygen2/version: 8.1.1
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
